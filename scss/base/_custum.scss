@@ -1,0 +1,61 @@
+body{
+    border: 1px solid red;
+}
+.header{
+    .logo{
+       width: 250px;
+       @media (max-width: $media-s){ 
+       width: 120px;
+     }
+    }
+}
+.mainContainer{
+    background-color: $color-bg1;
+    padding: 2%;
+
+}
+
+
+.baner{
+    height: 70vh;
+    background-color: brown;
+    background: url(/img/mar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    &__img{
+        background: url(/img/rihana.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+        width: 70%;
+        position: relative;
+        top: 10vh;
+        height: 90vh;
+
+       
+    } 
+    
+       
+        
+    }
+
+.section2{
+    padding-top: 30vh;
+    padding-bottom: 30vh;
+    background-color: $color-bg2;
+    .circle{
+        width: 8vw;
+        height: 8vw;
+        border-radius: 100%;
+        background: url(/img/mar.jpg);
+    }
+}
+.section3{
+    height: 40vh;
+    background-image: url(/img/mar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    
