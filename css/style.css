@@ -174,7 +174,6 @@ input.btn--disabled {
   padding: 12px 30px;
   font-family: principal;
   font-size: 19px;
-  border-radius: 10px;
   border: 2px solid;
   line-height: 1.3em;
   -webkit-transition: 0.5s ease-in-out;
@@ -209,23 +208,22 @@ input.btn--disabled {
 .btn--primary,
 a.btn--primary,
 input.btn--primary {
-  background-color: #fff;
-  color: #111;
+  width: 100%;
+  background-color: #111;
+  color: #fff;
   border-color: #111;
 }
 
 .btn--primary:hover,
 a.btn--primary:hover,
 input.btn--primary:hover {
-  background-color: #f6ecec;
-  border-color: #111;
+  background-color: #06173b;
 }
 
 .btn--primary:active,
 a.btn--primary:active,
 input.btn--primary:active {
-  background-color: #f6ecec;
-  border-color: #111;
+  background-color: #06173b;
 }
 
 .btn--secondary,
@@ -1475,6 +1473,30 @@ body {
   background-image: url(/img/mar.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.section3__img {
+  position: relative;
+  bottom: 15vh;
+}
+
+@media (max-width: 768px) {
+  .section3__img {
+    bottom: 25vh;
+  }
+}
+
+.section3__img img {
+  width: 200px;
+}
+
+.section4 {
+  background-color: #dfe1e9;
+  padding-bottom: 5vh;
+}
+
+.section4__img img {
+  width: 300px;
 }
 
 h5.sg {

@@ -8,7 +8,6 @@
    }
    font-family: principal;
    font-size: $btn-font-size;
-   border-radius: $btn-border-radius;
    border: $btn-border-width $btn-border-style;
    line-height: $line-height-small;
    transition: $transition-timeOut ease-in-out;
@@ -27,16 +26,15 @@
 a.btn--primary,
 input.btn--primary {
    @extend %btn;
-   background-color: $color-white;
-   color: $color-black;
+   width: 100%;
+   background-color: $color-black;
+   color: $color-white;
    border-color: $color-black;
    &:hover {
-      background-color: $color-bg2;
-      border-color: $color-black;
+      background-color: $color-txt1;
    }
    &:active {
-      background-color: $color-bg2;
-      border-color: $color-black;
+      background-color: $color-txt1;
    }
 }
 
