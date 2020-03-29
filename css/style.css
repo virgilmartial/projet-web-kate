@@ -139,7 +139,7 @@ a {
 }
 
 a:hover {
-  color: #111;
+  color: #dfe1e9;
   -webkit-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
 }
@@ -180,7 +180,6 @@ input.btn--disabled {
   transition: 0.5s ease-in-out;
   text-decoration: none;
   white-space: nowrap;
-  margin: 10px;
 }
 
 @media (max-width: 1024px) {
@@ -661,6 +660,206 @@ header {
 
 .p100 {
   padding: 100px;
+}
+
+.py5 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.py10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.py15 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.py20 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.py25 {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.py30 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.py35 {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+.py40 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.py45 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+}
+
+.py50 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.py55 {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+
+.py60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.py65 {
+  padding-top: 65px;
+  padding-bottom: 65px;
+}
+
+.py70 {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.py75 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.py80 {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.py85 {
+  padding-top: 85px;
+  padding-bottom: 85px;
+}
+
+.py90 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.py95 {
+  padding-top: 95px;
+  padding-bottom: 95px;
+}
+
+.py100 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.py5 {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.py10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.py15 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.py20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.py25 {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.py30 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.py35 {
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.py40 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.py45 {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.py50 {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.py55 {
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+.py60 {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.py65 {
+  padding-left: 65px;
+  padding-right: 65px;
+}
+
+.py70 {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.py75 {
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+.py80 {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.py85 {
+  padding-left: 85px;
+  padding-right: 85px;
+}
+
+.py90 {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+
+.py95 {
+  padding-left: 95px;
+  padding-right: 95px;
+}
+
+.py100 {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .pt5 {
@@ -1383,6 +1582,206 @@ header {
   margin-left: 100px;
 }
 
+.my5 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.my10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.my15 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.my20 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.my25 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.my30 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.my35 {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.my40 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.my45 {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.my50 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.my55 {
+  margin-top: 55px;
+  margin-bottom: 55px;
+}
+
+.my60 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.my65 {
+  margin-top: 65px;
+  margin-bottom: 65px;
+}
+
+.my70 {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.my75 {
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.my80 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.my85 {
+  margin-top: 85px;
+  margin-bottom: 85px;
+}
+
+.my90 {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.my95 {
+  margin-top: 95px;
+  margin-bottom: 95px;
+}
+
+.my100 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.mx5 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.mx10 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.mx15 {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.mx20 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.mx25 {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.mx30 {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.mx35 {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.mx40 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.mx45 {
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.mx50 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.mx55 {
+  margin-left: 55px;
+  margin-right: 55px;
+}
+
+.mx60 {
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.mx65 {
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.mx70 {
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.mx75 {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.mx80 {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.mx85 {
+  margin-left: 85px;
+  margin-right: 85px;
+}
+
+.mx90 {
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.mx95 {
+  margin-left: 95px;
+  margin-right: 95px;
+}
+
+.mx100 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
 ul {
   list-style-position: inside;
   list-style-type: circle;
@@ -1414,10 +1813,6 @@ textarea {
   width: 100%;
   padding: 8px 12px;
   margin-bottom: 10px;
-}
-
-body {
-  border: 1px solid red;
 }
 
 .header .logo {
@@ -1497,6 +1892,43 @@ body {
 
 .section4__img img {
   width: 300px;
+}
+
+.footer {
+  border-top: 1px solid #06173b;
+  background-color: white;
+  padding: 2%;
+}
+
+.footer-ico {
+  width: 300px;
+}
+
+.footer-ico span {
+  cursor: pointer;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  background-color: #06173b;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer-ico .ico {
+  fill: white;
+  width: 30px;
+  height: 30px;
+}
+
+.footer-ico .ico:hover {
+  fill: crimson;
 }
 
 h5.sg {

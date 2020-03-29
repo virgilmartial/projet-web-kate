@@ -1,6 +1,4 @@
-body{
-    border: 1px solid red;
-}
+
 .header{
     .logo{
        width: 250px;
@@ -82,4 +80,35 @@ body{
   
 
 }
+.footer{
+    border-top: 1px solid $color-txt1;
+    background-color: $color-bg1;
+    padding: 2%;
+}
+
+
+.footer-ico{
+    width: 300px;
+    span{
+        cursor: pointer;
+        border-radius: 100%;
+        width: 40px;
+        height: 40px;
+        background-color: $color-txt1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .ico{
+    fill: $color-bg1;
+    &:hover{
+        fill: crimson;
+    }
+    width: 30px;
+    height: 30px;
+   }
+
+}
+
+
     

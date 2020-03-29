@@ -101,6 +101,23 @@ $flexElements: (
      padding: $p*5px;  
    }
  }
+// padding vertical
+@for $py from 1 through 20 {  
+   .py#{$py*5} {
+     padding-top: $py*5px; 
+     padding-bottom: $py*5px;   
+   }
+}
+// padding horizontal
+@for $px from 1 through 20 {  
+   .py#{$px*5} {
+     padding-left: $px*5px; 
+     padding-right: $px*5px;   
+   }
+}
+
+
+
 @for $pt from 1 through 20 {  
    .pt#{$pt*5} {
      padding-top: $pt*5px;  
@@ -147,4 +164,19 @@ $flexElements: (
      margin-left: $ml*5px;  
    }
 }
+}
+
+// marging vertical
+@for $my from 1 through 20 {  
+   .my#{$my*5} {
+     margin-top: $my*5px; 
+     margin-bottom: $my*5px;   
+   }
+}
+// margin horizontal
+@for $mx from 1 through 20 {  
+   .mx#{$mx*5} {
+     margin-left: $mx*5px; 
+     margin-right: $mx*5px;   
+   }
 }
