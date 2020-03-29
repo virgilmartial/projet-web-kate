@@ -96,7 +96,6 @@ $flexElements: (
    }
 }
 
-
 @for $p from 1 through 20 {  
    .p#{$p*5} {
      padding: $p*5px;  
@@ -143,7 +142,7 @@ $flexElements: (
      margin-bottom: $mb*5px;  
    }
 }
-@for $ml from 1 through 20 {  
+@for $ml from 1 through 20 { 
    .ml#{$ml*5} {
      margin-left: $ml*5px;  
    }
